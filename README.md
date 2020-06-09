@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/swen729/TestProto/_apis/build/status/githubswen.pipelines-java?branchName=master)](https://dev.azure.com/swen729/TestProto/_build/latest?definitionId=2&branchName=master)
+https://dev.azure.com/swen729/TestProto/_apis/build/status/githubswen.pipelines-java?branchName=master[![Build Status](https://dev.azure.com/swen729/TestProto/_apis/build/status/githubswen.pipelines-java?branchName=master)](https://dev.azure.com/swen729/TestProto/_build/latest?definitionId=2&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
